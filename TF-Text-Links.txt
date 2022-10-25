@@ -1,0 +1,13 @@
+Text Processing with TensorFlow links:
+
+1. Understanding Text Embedding:
+	https://www.tensorflow.org/text/guide/word_embeddings
+	
+	Embedding Visualizer
+	http://projector.tensorflow.org
+	
+2. Basic Text Classification
+	https://www.tensorflow.org/tutorials/keras/text_classification
+	
+3. Text Classification with TF Hub
+	https://www.tensorflow.org/tutorials/keras/text_classification_with_hub
